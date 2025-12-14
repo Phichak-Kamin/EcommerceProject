@@ -100,5 +100,4 @@ This project was heavily inspired by the excellent educational content from **Su
 
 ### 📬 Contact
 
-Built by **Phichak Limlamlertkul** as a learning initiative.
-Feel free to open an issue or reach out if you have any suggestions!
+*Created by Phichak Limlamlertkul - Computer Engineering Student at KU.*
